@@ -1,8 +1,8 @@
 import React, { Component } from "react"
-import CardNotas from "../CardNotas/CardNotas"
+import CardNotas from "../CardNotas"
 import "./estilo.css"
 
-export class ListaDeNotas extends Component{
+export default class ListaDeNotas extends Component{
     render(){
         return(
             <ul className="listadeNotas_ul">

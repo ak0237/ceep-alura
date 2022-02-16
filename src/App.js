@@ -1,6 +1,6 @@
 import React from "react";
-import Formulario from "./components/Formulario/formulario";
-import { ListaDeNotas } from "./components/ListadeNotas/ListaDeNotas";
+import Formulario from "./components/Formulario";
+import ListaDeNotas  from "./components/ListaDeNotas";
 import "./App.css"
 
 function App() {

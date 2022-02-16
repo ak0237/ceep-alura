@@ -1,0 +1,15 @@
+.listadeNotas_li_principal{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.listadeNotas_li_card{
+    margin: 30px;
+}
+
+.listadeNotas_ul{
+    width: 50%;
+    border-left: solid 1px;
+    
+}
